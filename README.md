@@ -10,4 +10,6 @@ If you're interested in Microsoft's hottest front-end framework, [Blazor](https:
 ## ✍️ Blog & Speaking
 For more bite sized Blazor content, check out my [blog](https://chrissainty.com)! I regularly post new content covering Blazor and ASP.NET Core topics. You can also find information about my upcoming [speaking events](https://chrissainty.com/speaking/) there as well.
 
+## 📊 GitHub Stats
+
 [![Chris Sainty's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissainty&title_color=ff6600&bg_color=1d1f21&text_color=d6d6d6)](https://github.com/anuraghazra/github-readme-stats)
