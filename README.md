@@ -5,7 +5,7 @@
 I'm a software engineer, author, speaker, open source contributor and Microsoft MVP. I live in the UK and currently working at [Deployed](https://deployed.co).
 
 ## 📙 Blazor in Action
-If you're interested in Microsoft's hottest front-end framework, [Blazor](https://blazor.net). You should checkout my book, [Blazor in Action]((http://bit.ly/blazorinaction).
+If you're interested in Microsoft's hottest front-end framework, [Blazor](https://blazor.net). You should checkout my book, [Blazor in Action](http://bit.ly/blazorinaction).
 
 ## ✍️ Blog & Speaking
 For more bite sized Blazor content, check out my [blog](https://chrissainty.com)! I regularly post new content covering Blazor and ASP.NET Core topics. You can also find information about my upcoming [speaking events](https://chrissainty.com/speaking/) there as well.
