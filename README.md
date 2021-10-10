@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/chrissainty/chrissainty/master/readme_header.png "Header")](https://chrissainty.com)
+[![Header](https://user-images.githubusercontent.com/6171719/136707681-666538d3-041f-4cbd-a178-f6d64fb678bd.jpg)](https://chrissainty.com)
+
 
 # Hey, I'm Chris 👋
 I'm a software engineer, author, speaker, open source contributor and Microsoft MVP. I live in the UK and currently working at [Deployed](https://deployed.co).
