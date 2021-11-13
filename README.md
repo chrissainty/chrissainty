@@ -7,12 +7,8 @@ I'm a software engineer, author, speaker, open source contributor and Microsoft 
 [![Website](https://img.shields.io/website?label=ChrisSainty.com&style=for-the-badge&url=https%3A%2F%2Fchrissainty.com)](https://chrissainty.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chris_sainty?color=ff6600&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchris_sainty&screen_name=codeSTACKr)
 
----
-
 ## 📙 Blazor in Action
 If you're interested in Microsoft's hottest front-end framework, [Blazor](https://blazor.net). You should checkout my book, [Blazor in Action](http://bit.ly/blazorinaction).
-
----
 
 ## ✍️ Blog & Speaking
 For more bite sized Blazor content, check out my [blog](https://chrissainty.com)! I regularly post new content covering Blazor and ASP.NET Core topics. You can also find information about my upcoming [speaking events](https://chrissainty.com/speaking/) there as well.
@@ -21,8 +17,6 @@ For more bite sized Blazor content, check out my [blog](https://chrissainty.com)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
 
 ## 📊 GitHub Stats
 
