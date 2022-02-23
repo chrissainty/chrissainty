@@ -16,11 +16,11 @@ For more bite sized Blazor content, check out my [blog](https://chrissainty.com)
 ### 📅 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Tailwind CSS v3 to a Blazor app](https://chrissainty.com/adding-tailwind-css-v3-to-a-blazor-app/)
 - [Blazored hits 1,000,000 downloads on NuGet](https://chrissainty.com/blazored-hits-1-000-000-downloads-on-nuget/)
 - [Talking Blazored on the Blazor Community Standup](https://chrissainty.com/talking-blazored-on-the-blazor-community-standup/)
 - [Blazor in Action is now available on MEAP](https://chrissainty.com/blazor-in-action-is-now-available-on-meap/)
 - [Building a simple tooltip component for Blazor in under 10 lines of code*](https://chrissainty.com/building-a-simple-tooltip-component-for-blazor-in-under-10-lines-of-code/)
-- [Creating a Custom Validation Message Component for Blazor Forms](https://chrissainty.com/creating-a-custom-validation-message-component-for-blazor-forms/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
