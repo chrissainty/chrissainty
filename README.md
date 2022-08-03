@@ -5,7 +5,7 @@
 I'm a software engineer, author, speaker, open source contributor and Microsoft MVP. I live in the UK and currently working at [Deployed](https://deployed.co).
 
 [![Website](https://img.shields.io/website?label=ChrisSainty.com&style=for-the-badge&url=https%3A%2F%2Fchrissainty.com)](https://chrissainty.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/chris_sainty?color=ff6600&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchris_sainty&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/chris_sainty?color=ff6600&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchris_sainty&screen_name=chris_sainty)
 
 ## 📙 Blazor in Action
 If you're interested in Microsoft's hottest front-end framework, [Blazor](https://blazor.net). You should checkout my book, [Blazor in Action](http://bit.ly/blazorinaction).
