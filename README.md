@@ -16,11 +16,11 @@ For more bite sized Blazor content, check out my [blog](https://chrissainty.com)
 ### 📅 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blazor in .NET 8: Server-side and Streaming Rendering](https://chrissainty.com/blazor-in-dotnet-8-server-side-and-streaming-rendering/)
-- [Blazor in .NET 8: Full stack Web UI](https://chrissainty.com/blazor-in-dotnet-8-full-stack-web-ui/)
-- [Adding Tailwind CSS v3 to a Blazor app](https://chrissainty.com/adding-tailwind-css-v3-to-a-blazor-app/)
-- [Blazored hits 1,000,000 downloads on NuGet](https://chrissainty.com/blazored-hits-1-000-000-downloads-on-nuget/)
-- [Talking Blazored on the Blazor Community Stand up](https://chrissainty.com/talking-blazored-on-the-blazor-community-standup/)
+- [Blazor in .NET 8: Server-side and Streaming Rendering](http://chrissainty.com/blazor-in-dotnet-8-server-side-and-streaming-rendering/)
+- [Blazor in .NET 8: Full stack Web UI](http://chrissainty.com/blazor-in-dotnet-8-full-stack-web-ui/)
+- [Adding Tailwind CSS v3 to a Blazor app](http://chrissainty.com/adding-tailwind-css-v3-to-a-blazor-app/)
+- [Blazored hits 1,000,000 downloads on NuGet](http://chrissainty.com/blazored-hits-1-000-000-downloads-on-nuget/)
+- [Talking Blazored on the Blazor Community Stand up](http://chrissainty.com/talking-blazored-on-the-blazor-community-standup/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
